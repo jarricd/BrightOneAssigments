@@ -10,7 +10,9 @@ Inside BrightOneAssigment_1 directory you can find solution to Assigment 1, wher
 
 Inside `Release` directory, there are *exe files with solutions to assigments. 
 
-file.txt - input file for Assigment 1.
-evens.txt - output file with assigment solution data consisting of numbers with even count of ones, separated with spaces for sake of readability.
-odds.txt - output file with assigment soluton data consisting of numbers with odd count of ones, separated with spaces for sake of readability.
+`file.txt` - input file for Assigment 1.
+
+`evens.txt` - output file with assigment solution data consisting of numbers with even count of ones, separated with spaces for sake of readability.
+
+`odds.txt` - output file with assigment soluton data consisting of numbers with odd count of ones, separated with spaces for sake of readability.
 
